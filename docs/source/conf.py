@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Office of Personnel Management Department'
-copyright = '2025, Office of Personnel Management'
+project = 'Office of Personnel Management Department LSPD'
+copyright = '2025, Office of Personnel Management LSPD'
 author = 'Orlando Castello'
 release = '1.0'
 
